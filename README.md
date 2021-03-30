@@ -43,8 +43,6 @@ Dayhoff J E, Deleo J M. Artificial neural networks. Cancer, 2001, 91(8):1615-163
 
 In this study, we’ve written Python code to:
   •	Explore and Process the Dataset
-  df = pd.read_csv('housepricedata.csv')
-  
   •	Build and Train our NN
   •	Visualize  Accuracy and Loss
   •	Add Regularization to NN
