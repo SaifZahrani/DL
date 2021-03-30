@@ -48,7 +48,7 @@ In this study, we’ve written Python code to:
   •	Add Regularization to NN
 We've been through a lot, but we haven't written too much code! It only took about 4 to 5 lines of code to construct and train our Neural Network, and playing with different model architectures is as easy as swapping in different layers or modifying different hyperparameters.
 
-We have trained three different networks and achieved an highest accuracy of 90.69%. Training and testing accuracy of our bestfitted model is shown in figure 2.
+We have trained three different networks and achieved an highest accuracy of 90.69%. Training and testing accuracy of our bestfitted model is shown in figure.
 
 ![download](https://user-images.githubusercontent.com/81248615/112745201-0b3d6d80-8fc0-11eb-987d-0c2d6712a680.png)
 
