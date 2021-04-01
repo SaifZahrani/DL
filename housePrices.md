@@ -42,10 +42,10 @@ Dayhoff J E, Deleo J M. Artificial neural networks. Cancer, 2001, 91(8):1615-163
 # Our Trained Networks
 
 In this study, we’ve written Python code to:
-  •	Explore and Process the Dataset
-  •	Build and Train our NN
-  •	Visualize  Accuracy and Loss
-  •	Add Regularization to NN
+  * 	Explore and Process the Dataset
+  *	Build and Train our NN
+  *	Visualize  Accuracy and Loss
+  *	Add Regularization to NN
 We've been through a lot, but we haven't written too much code! It only took about 4 to 5 lines of code to construct and train our Neural Network, and playing with different model architectures is as easy as swapping in different layers or modifying different hyperparameters.
 
 We have trained three different networks and achieved an highest accuracy of 90.69%. Training and testing accuracy of our bestfitted model is shown in figure.
@@ -81,19 +81,7 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
