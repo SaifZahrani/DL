@@ -13,7 +13,7 @@ The data used in this paper was crawled from the Web Host using crawler technolo
 
 ### Keras 
 
-Keras is a Python-based neural network library with a high degree of modularity. The backend may be either TensorFlow or Theano [1]. Keras also includes modules such as activation function modules, sheet modules, preprocessing modules, objective function modules, optimization system selection modules, and so on. Activation function modules and optimization process selection modules [2] are two of them, and they combine all of the most recent and best optimization approaches and activation functions. Network models can be easily developed with these components, and core parameters of neural networks can be enhanced.
+Keras is a Python-based neural network library with a high degree of modularity. The backend may be either TensorFlow or Theano [1]. Keras also includes modules such as activation function modules, sheet modules, preprocessing modules, objective function modules, optimisation system selection modules, and so on. Activation function modules and optimisation process selection modules [2] are two of them, and they combine all of the most recent and best optimization approaches and activation functions. Network models can be easily developed with these components, and core parameters of neural networks can be enhanced.
 
 ### Back Propagation NN
 
@@ -31,13 +31,11 @@ The analysis with the absolute value of the relative error between the expected 
 
 ## Work Cited
 
-Ang L I , Yi-Xiang L I , Xue-Hui L I . TensorFlow and Keras-based Convolutional Neural Network in CAT Image Recognition. 2017.
+1] Ang L I , Yi-Xiang L I , Xue-Hui L I . TensorFlow and Keras-based Convolutional Neural Network in CAT Image Recognition. 2017.
 
+[2] Wisanlaya Pornprakun, et al. Determining optimal policies for sugarcane harvesting in Thailand using bi-objective and quasi-Newton optimization methods. Advances in Difference Equations, 2019, Vol.2019 (1), pp.1-15
 
-Wisanlaya Pornprakun, et al. Determining optimal policies for sugarcane harvesting in Thailand using bi-objective and quasi-Newton optimization methods. Advances in Difference Equations, 2019, Vol.2019 (1), pp.1-15
-
-
-Dayhoff J E, Deleo J M. Artificial neural networks. Cancer, 2001, 91(8):1615-1634. 
+[3] Dayhoff J E, Deleo J M. Artificial neural networks. Cancer, 2001, 91(8):1615-1634. 
 
 # Our Trained Networks
 
@@ -48,7 +46,7 @@ In this study, we’ve written Python code to:
   *	Add Regularization to NN
 We've been through a lot, but we haven't written too much code! It only took about 4 to 5 lines of code to construct and train our Neural Network, and playing with different model architectures is as easy as swapping in different layers or modifying different hyperparameters.
 
-We have trained three different networks and achieved an highest accuracy of 90.69%. Training and testing accuracy of our bestfitted model is shown in figure.
+We have trained three different networks and achieved an highest accuracy of 92.69%. Training and testing accuracy of our bestfitted model is shown in figure.
 
 ![download](https://user-images.githubusercontent.com/81248615/112745201-0b3d6d80-8fc0-11eb-987d-0c2d6712a680.png)
 
